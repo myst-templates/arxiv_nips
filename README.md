@@ -1,8 +1,8 @@
 # arXiv (NIPS)
 
-A template for pre-prints based on the arXiv submission guide, created by [George Kour](https://github.com/kourgeorge) and ported to a Curvenote template.
+A template for pre-prints based on the arXiv submission guide, created by [George Kour](https://github.com/kourgeorge) and ported to a jtex template.
 
-<img src="thumbnail.png" />
+![](./thumbnail.png)
 
 - Author: [George Kour](https://github.com/kourgeorge)
 - License: MIT
